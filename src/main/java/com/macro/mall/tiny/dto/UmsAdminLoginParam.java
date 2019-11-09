@@ -1,7 +1,6 @@
 package com.macro.mall.tiny.dto;
 
 import io.swagger.annotations.ApiModelProperty;
-
 import javax.validation.constraints.NotBlank;
 
 /**
